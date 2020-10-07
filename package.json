@@ -1,8 +1,13 @@
 {
   "name": "wordfind",
+  "type": "module",
+  "private": true,
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "git@github.com:nickbreen/wordfind.git",
   "author": "Nick Breen <nick@foobar.net.nz>",
-  "license": "GPL-3.0-only"
+  "license": "GPL-3.0-only",
+  "main": "src/main/js/main.js",
+  "engines": {
+    "node": ">=14"
+  }
 }

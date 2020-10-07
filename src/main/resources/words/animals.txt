@@ -1,0 +1,13 @@
+crocodile
+elephant
+giraffe
+hippo
+kangaroo
+kiwi
+lion
+rhino
+seal
+snake
+tiger
+zebra
+BEAR
